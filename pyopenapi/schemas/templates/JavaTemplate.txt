@@ -1,0 +1,9 @@
+package [SCHEMA_PACKAGE].dto
+
+@Builder
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class [SCHEMA_NAME]DTO {
+    [SCHEMA_PROPERTIES]
+}
